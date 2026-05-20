@@ -94,11 +94,3 @@ Kategori dengan nilai efisiensi tinggi menghasilkan penjualan lebih besar per ru
 
 ### 7. Uji Hipotesis Iklan
 Membandingkan rata-rata `Total_Sales` antara transaksi dengan anggaran iklan tinggi (di atas median) vs rendah (di bawah/sama dengan median) untuk menguji apakah iklan berpengaruh signifikan terhadap penjualan.
-
----
-
-## 📝 Catatan
-
-- Beberapa baris memiliki nilai `Total_Sales` kosong (null) — perlu diperhatikan saat interpretasi hasil agregasi.
-- Data mencakup periode **Januari – Desember 2023**.
-- Satuan harga dan anggaran dalam **Rupiah (IDR)**.
